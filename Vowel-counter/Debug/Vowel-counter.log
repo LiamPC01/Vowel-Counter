@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\liam1\Documents\Independent Work\Programming\Portfolio Projects\Vowel-counter\Vowel-counter\Source.cpp(11,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\liam1\Documents\Independent Work\Programming\Portfolio Projects\Vowel-counter\Vowel-counter\Source.cpp(26,20): warning C4018: '<=': signed/unsigned mismatch
+  Vowel-counter.vcxproj -> C:\Users\liam1\Documents\Independent Work\Programming\Portfolio Projects\Vowel-counter\Debug\Vowel-counter.exe
